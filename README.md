@@ -57,9 +57,9 @@ Press Any key and Enter to exit
 
 Let's register as a **Student / Professor**. The users can also add a bio in their **profile** section (while creating their account) :
 ```
-Enter your name: Shreyasi Mandal
+Enter your name: Vishal Rai
 
-Create a username: shreyasi
+Create a username: vishal
 
 Create a password: abcd
 
@@ -73,7 +73,7 @@ Your bio is saved as: This is the bio section
 ```
 Now lets see how to login and profile section -
 ```
-Enter your username: shreyasi
+Enter your username: vishal
 
 Enter your password: abcd
 
@@ -88,8 +88,8 @@ You are successfully logged in:)
 
 
 YOUR PROFILE SAYS:
-Username: shreyasi
-Name: Shreyasi Mandal
+Username: vishal
+Name: Vishal Rai
 Role: Professor
 Bio: This is the bio section
 
